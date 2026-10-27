@@ -4,6 +4,16 @@
 
 Turn a portrait photo into a retro riso-style collage poster: auto cutout → 3-color offset misprint → fixed 8-layer layout → gradient frame + ZOOM IN! logo.
 
+## 示例效果 · Examples
+
+| 缅因猫 × 冬青（可爱） | 戏台 · 脸谱 · 凤冠（复古） |
+|---|---|
+| ![cute cat](examples/example_cute_cat.png) | ![retro stage](examples/example_retro_stage.png) |
+| **冲浪里 × 海鸥（可爱）** | **照片直贴拼贴（原版风格）** |
+| ![cute wave](examples/example_cute_wave.jpg) | ![photo collage](examples/example_photo_collage.jpg) |
+
+> 元素素材：冬青树 / 缅因猫 / 京剧脸谱 / 凤冠盔头 / 牡丹折扇 / 戏台 —— 均按 `references/element-prompts.md` 的固定提示词骨架生成。
+
 ![poster](assets/logo/zoomin_logo.png)
 
 ## 用法 · Usage
