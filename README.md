@@ -6,11 +6,16 @@ Turn a portrait photo into a retro riso-style collage poster: auto cutout → 3-
 
 ## 示例效果 · Examples
 
-| 缅因猫 × 冬青（可爱） | 戏台 · 脸谱 · 凤冠（复古） |
-|---|---|
-| ![cute cat](examples/example_cute_cat.png) | ![retro stage](examples/example_retro_stage.png) |
-| **冲浪里 × 海鸥（可爱）** | **照片直贴拼贴（原版风格）** |
-| ![cute wave](examples/example_cute_wave.jpg) | ![photo collage](examples/example_photo_collage.jpg) |
+<table>
+  <tr>
+    <td align="center"><img src="examples/example_cute_cat.png" width="360" alt="cute cat"><br><sub><b>缅因猫 × 冬青（可爱）</b></sub></td>
+    <td align="center"><img src="examples/example_retro_stage.png" width="360" alt="retro stage"><br><sub><b>戏台 · 脸谱 · 凤冠（复古）</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="examples/example_cute_wave.jpg" width="360" alt="cute wave"><br><sub><b>冲浪里 × 海鸥（可爱）</b></sub></td>
+    <td align="center"><img src="examples/example_photo_collage.jpg" width="360" alt="photo collage"><br><sub><b>照片直贴拼贴（原版风格）</b></sub></td>
+  </tr>
+</table>
 
 > 元素素材：冬青树 / 缅因猫 / 京剧脸谱 / 凤冠盔头 / 牡丹折扇 / 戏台 —— 均按 `references/element-prompts.md` 的固定提示词骨架生成。
 
