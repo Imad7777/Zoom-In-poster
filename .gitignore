@@ -1,0 +1,8 @@
+# 个人素材与生成产物（不上传）
+input/
+work/
+poster*.png
+portrait_*.png
+element_*_cut.png
+__pycache__/
+*.pyc
